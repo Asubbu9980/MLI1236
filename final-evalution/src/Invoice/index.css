@@ -1,0 +1,10 @@
+@media print{
+    .delete{
+        display: none !important;
+    }
+    .download{
+        display: none !important;
+    }
+
+    
+}

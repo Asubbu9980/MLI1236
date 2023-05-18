@@ -1,0 +1,41 @@
+.navbar-brand{
+    color: white !important;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+/* .navbar-brand:hover{
+    color:white!important
+} */
+
+.nav-link{
+    color: white;
+    font-family: "Roboto";
+    font-size: 24px;
+} */
+
+
+
+
+
+.navbar-nav .nav-link.active {
+    color: white;
+    
+    border-radius: 16px;
+    
+}
+
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover{ 
+    color:white!important
+}
+
+.navbar-toggler-icon{
+    color: white !important;
+    background-color: white;
+    border: none;
+}
