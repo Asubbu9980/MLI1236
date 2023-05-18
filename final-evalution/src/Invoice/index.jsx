@@ -109,7 +109,7 @@ function InVoicePage() {
       ],
     });
 
-    autoTable(doc, <DataPage data={[row]} />);
+   // autoTable(doc, <DataPage data={[row]} />);
 
     doc.save(`${row.title}.pdf`);
   }
